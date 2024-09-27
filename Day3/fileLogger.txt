@@ -1,0 +1,18 @@
+the Data from the Channel is: Data One
+
+the Data from the Channel is: Data 4
+
+the Data from the Channel is: Data Two
+
+the Data from the Channel is: Data Three
+
+the Data from the Channel is: Data 5
+
+the Data from the Channel is: Data 7
+
+the Data from the Channel is: Data 8
+
+the Data from the Channel is: Data 9
+
+the Data from the Channel is: Data 6
+
